@@ -1,7 +1,8 @@
 MemberRegistration.MvcWebUI/Scripts/popper.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/bootstrap.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/popper-utils.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/jquery.validate.js linguist-vendored=true
 
 
-# member-registration: MVC UI altındaki tüm JS'leri dil istatistiğinden çıkar
-MemberRegistration.MvcWebUI/Scripts/**/*.js    linguist-vendored
 
 
