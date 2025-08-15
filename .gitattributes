@@ -9,4 +9,6 @@ MemberRegistration.MvcWebUI/Scripts/jquery.validate.js linguist-vendored=true
 
 
 
+MemberRegistration.MvcWebUI/Scripts/**/*.min.js linguist-vendored
+
 
