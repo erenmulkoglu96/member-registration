@@ -4,7 +4,4 @@ MemberRegistration.MvcWebUI/Scripts/popper.js linguist-vendored=true
 # member-registration: MVC UI altındaki tüm JS'leri dil istatistiğinden çıkar
 MemberRegistration.MvcWebUI/Scripts/**/*.js    linguist-vendored
 
-# (opsiyonel) minify ve source map dosyaları için de net kurallar
-MemberRegistration.MvcWebUI/Scripts/**/*.min.js linguist-vendored
-MemberRegistration.MvcWebUI/Scripts/**/*.map    linguist-generated
 
