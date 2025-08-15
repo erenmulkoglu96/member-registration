@@ -1,6 +1,10 @@
 MemberRegistration.MvcWebUI/Scripts/popper.js linguist-vendored=true
 MemberRegistration.MvcWebUI/Scripts/bootstrap.js linguist-vendored=true
 MemberRegistration.MvcWebUI/Scripts/popper-utils.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/bootstrap.bundle.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/bootstrap.bundle.min.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/bootstrap.min.js linguist-vendored=true
+MemberRegistration.MvcWebUI/Scripts/jquery-3.0.0.min.js linguist-vendored=true
 MemberRegistration.MvcWebUI/Scripts/jquery.validate.js linguist-vendored=true
 
 
